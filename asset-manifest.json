@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/llm-csv-converter/static/css/main.964fdded.css",
+    "main.js": "/llm-csv-converter/static/js/main.96265a85.js",
+    "index.html": "/llm-csv-converter/index.html",
+    "main.964fdded.css.map": "/llm-csv-converter/static/css/main.964fdded.css.map",
+    "main.96265a85.js.map": "/llm-csv-converter/static/js/main.96265a85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.96265a85.js"
+  ]
+}
